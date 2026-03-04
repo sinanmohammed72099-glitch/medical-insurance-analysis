@@ -10,10 +10,15 @@ visualization techniques.
 The dataset contains the following details:
 
 Age
+
 Gender
+
 BMI
+
 Number of Children
+
 Region
+
 Insurance Charges
 
 🛠 Tools & Techniques Used
