@@ -1,11 +1,11 @@
-📊 Medical Insurance Excel Analysis
+# 📊 Medical Insurance Excel Analysis
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project focuses on analyzing a Medical Insurance dataset using Microsoft Excel. The main objective is to study the factors affecting insurance charges and generate meaningful insights through data analysis and 
 visualization techniques.
 
-📂 Dataset Information
+# 📂 Dataset Information
 
 The dataset contains the following details:
 
@@ -21,7 +21,7 @@ Region
 
 Insurance Charges
 
-🛠 Tools & Techniques Used
+# 🛠 Tools & Techniques Used
 
 Microsoft Excel
 
@@ -31,7 +31,7 @@ Excel Formulas (SUM, AVERAGE, IF, etc.)
 
 Pivot Tables  &  Charts 
 
-📈 Analysis Performed
+# 📈 Analysis Performed
 
 Performed data cleaning and structured the dataset for accurate analysis
 
@@ -46,7 +46,7 @@ Studied the relationship between BMI and insurance expenses
 Examined how the number of children affects total insurance charges
 
 
-🎯 Key Insights
+# 🎯 Key Insights
 
 Insurance premiums tend to increase as age increases
 
@@ -56,7 +56,11 @@ There are noticeable variations in insurance charges between regions
 
 Customers with more dependents may experience different cost patterns
 
-📌 Conclusion
+# 📌 Conclusion
 
 This Excel project highlights the importance of data analysis in understanding medical insurance pricing patterns. By using pivot tables, formulas, and charts, meaningful insights were generated to support better 
 decision-making and reporting.
+
+# 👨‍💻 Author
+
+Mohammed Sinan P
